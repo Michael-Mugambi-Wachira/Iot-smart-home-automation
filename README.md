@@ -39,7 +39,7 @@ This project utilizes a variety of technologies to ensure seamless operation:
 - **Solenoid Lock**: For secure door locking.
 - **Sliding Door Mechanism**: For automated door operation.
 
-## Installation
+# Installation
 
 To get started with the IoT Smart Home Automation project, follow these steps:
 
@@ -81,7 +81,7 @@ We welcome contributions to improve this project. If you have suggestions or wan
 
 Please ensure your code adheres to the existing style and includes tests where applicable.
 
-## License
+# License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 

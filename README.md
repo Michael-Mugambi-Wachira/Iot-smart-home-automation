@@ -24,7 +24,7 @@ Welcome to the **IoT Smart Home Automation** project! This repository showcases 
 - **Real-time Monitoring**: Keep track of your appliances' status.
 - **Energy Efficiency**: Optimize your energy consumption with smart automation.
 
-## Technologies Used
+# Technologies Used
 
 This project utilizes a variety of technologies to ensure seamless operation:
 
@@ -86,11 +86,5 @@ Please ensure your code adheres to the existing style and includes tests where a
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-
-
-
-For further updates, please check the **Releases** section regularly.
-
----
 
 Thank you for exploring the IoT Smart Home Automation project! We hope it inspires you to create your own smart home solutions.
